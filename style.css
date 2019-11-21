@@ -1,0 +1,21 @@
+body{
+  width: 50%;
+  margin: auto;
+}
+
+.square{
+  height: 80px;
+  width: 80px;
+  font-size: 45px;
+  text-align: center;
+}
+
+table{
+  border-collapse:collapse;
+  cursor: pointer;
+}
+
+td{
+  border: 1px solid black;
+
+}
