@@ -1,6 +1,7 @@
 body{
   width: 50%;
   margin: auto;
+  background-color: #f0f0f5;
 }
 
 .square{
@@ -17,5 +18,19 @@ table{
 
 td{
   border: 1px solid black;
+  user-select:none;
+}
 
+a{
+  text-decoration: none;
+  font-family: 'Inconsolata', monospace;
+  color: black;
+}
+
+#text{
+  font-family: 'Inconsolata', monospace;
+}
+
+h1{
+  font-family: 'Inconsolata', monospace;
 }
